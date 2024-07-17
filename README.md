@@ -1,5 +1,5 @@
 # Image_to_Video
-Notebook implementation of CVPR 2023 paper "Conditional Image-to-Video Generation with Latent Flow Diffusion Models"
+Notebook implementation of CVPR 2023 paper ["Conditional Image-to-Video Generation with Latent Flow Diffusion Models"](https://arxiv.org/abs/2303.13744)
 
 This is a notebook implementation of the CVPR 2023 paper "Conditional Image-to-Video Generation with Latent Flow Diffusion Models", inspired by [CVPR23_LFDM](https://github.com/nihaomiao/CVPR23_LFDM).
 Training is done on the [NATOPS dataset](https://github.com/yalesong/natops).
