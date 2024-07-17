@@ -6,4 +6,6 @@ Training is done on the [NATOPS dataset](https://github.com/yalesong/natops).
 
 For space and resource constraints, the training is done on only 5 actions from NATOPS data, reduced epochs and smaller batch sizes. Training done on Colab 16GB T4 GPU. 
 
+Updated code in this [link](https://drive.google.com/drive/folders/1jSSMgXn6QYphRQdIRj9EFz_e7n77aucP?usp=drive_link).
+
 
